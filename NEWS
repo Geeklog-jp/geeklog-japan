@@ -4,7 +4,7 @@ NEWS
 
 このファイルではGeeklog日本語版のリリースに関する情報を簡潔に紹介します。
 
-Geeklog 2.1.1-jp-1.0					2015年 12月 11日
+Geeklog 2.1.1-jp-1.0					2015年 12月 14日
 
   o Geeklog 2.1.0-jp-1.1からの変更
 
@@ -12,6 +12,7 @@ Geeklog 2.1.1-jp-1.0					2015年 12月 11日
      * mobile hackを削除しました。
      * phpblock関数sitemapmenuを削除しました。
      * テーマprofessional_cssは、Modern Geekに取り込まれたため廃止しました。
+     * テーマHorizonを追加しました。
 
 
 Geeklog 2.1.0-jp-1.1					2015年 7月 6日
