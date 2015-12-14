@@ -1,7 +1,16 @@
 
 <!-- blockfooter-message.thtml { -->
 
-  </div>
 </aside>
+
+  </div>
+ </div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$.UIkit.modal('#gl-message').show();
+});
+</script>
+
 
 <!-- } blockfooter-message.thtml -->

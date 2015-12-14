@@ -1,8 +1,11 @@
 
 <!-- blockheader-message.thtml { -->
 
+ <div id="gl-message" class="uk-modal">
+  <div class="uk-modal-dialog"> 
+   <a class="uk-modal-close uk-close"></a>
+
 <aside>
-  <div class="uk-panel uk-panel-box uk-panel-box-primary">
     <h3 class="uk-panel-title">{showhide}{block_title}{block_help}</h3>
 
 <!-- } blockheader-message.thtml -->
