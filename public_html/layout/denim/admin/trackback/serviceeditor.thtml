@@ -21,12 +21,12 @@
       <dd>
         <ul class="compact">
           <li>
-            <label><input type="radio" value="standard" {standard_is_checked} name="method" id="admin-serviceeditor-method"{xhtml}>
-            {lang_method_standard} <code>weblogUpdates.ping</code></label>
+            <input type="radio" value="standard" {standard_is_checked} name="method" id="admin-serviceeditor-method"{xhtml}>
+            {lang_method_standard} <code>weblogUpdates.ping</code>
           </li>
           <li>
-            <label><input type="radio" value="extended" {extended_is_checked} name="method"{xhtml}>
-            {lang_method_extended} <code>weblogUpdates.extendedPing</code></label>
+            <input type="radio" value="extended" {extended_is_checked} name="method"{xhtml}>
+            {lang_method_extended} <code>weblogUpdates.extendedPing</code>
           </li>
         </ul>
       </dd>

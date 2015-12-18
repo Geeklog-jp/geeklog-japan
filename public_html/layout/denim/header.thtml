@@ -29,7 +29,7 @@
 
     <header id="header" role="banner">
       <div id="header-content" class="type1">
-        <p class="site_name"><a href="{site_url}" title="{site_name}">{site_name}</a></p>
+        <h1 class="site_name"><a href="{site_url}" title="{site_name}">{site_name}</a></h1>
         <p class="site_slogan">{site_slogan}</p>
       </div>
     </header>
@@ -51,7 +51,7 @@
 
       <!-- Center Block Container -->
       <div id="centerblocks">
-        <main id="main-content" role="main">
+        <div id="main-content" role="main">
           <p class="welcome_msg">{welcome_msg_jp}&nbsp;{datetime}</p>
           {breadcrumb_trail}
 

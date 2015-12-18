@@ -2,7 +2,7 @@
 <!-- blockheader-related.thtml { -->
 
 <aside class="block-related">
-  <h2>{block_title}{block_help}</h2>
+  <h3>{block_title}{block_help}</h3>
   <div class="block-related-content">
 
 <!-- } blockheader-related.thtml -->
