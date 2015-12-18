@@ -2,7 +2,7 @@
 <!-- blockheader.thtml { -->
 
 <section class="block-center">
-  <h1>{block_title}{block_help}</h1>
+  <h2>{block_title}{block_help}</h2>
   <div class="block-center-content">
 
 <!-- } blockheader.thtml -->
